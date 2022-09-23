@@ -1,0 +1,25 @@
+
+	DEVELOPED BY :
+	------------  
+	Ankush Gautam
+	Kabir Bhattarai
+	Kiran Sharma
+
+	This is a project work made in C++ Programming language.  This project would not have been possible without the help 
+	of our respected teachers, Siddhartha Kayastha and Navin Prasai. BANK MANAGEMENT SYSTEM as the name suggests 
+	records and stores personal as well as financial details of customers. This program includes variety of options: create a/c,
+	check a/c, deposit, withdraw, transfer between existing a/cs, close an a/c, list all registered a/c. We used seekp and seekg
+	pointers to modify data, resulting in faster execution. Only closing an account use a second file.
+
+ 	This Application's main objective is to provide a simple interface to overview accounts of  customers.
+
+	>> FEATURES	
+
+	1.  Login Page 
+	2.  Menu Driven
+	3.  User Friendly & Colorful
+	4.  Detects if user doesn't input alphabetical value in Name input
+	5.  Detects if user input same account No. existing in the file
+	6.  Features like WITHDRAW , DEPOSIT and even TRANSFER MONEY
+	7.  Count number of records in the file
+	8.  Create, View, Close or Search any account in the file
